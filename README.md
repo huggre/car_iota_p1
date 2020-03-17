@@ -326,6 +326,7 @@ While the solution proposed in this tutorial might work for some local use-cases
 
 If you like this tutorial and want me to continue making others, feel free to make a small donation to the IOTA address shown below.
 
-![img](https://miro.medium.com/max/400/0*AUNIaIpyqi3bidiP.png)
+![img](https://miro.medium.com/max/382/1*j2ENIzmDzXcGSgAdY4w-Jw.png)
 
-> *GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ*
+NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ
+
