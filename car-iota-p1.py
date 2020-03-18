@@ -29,7 +29,7 @@ GPIO.setmode(GPIO.BCM)
 iotaNode = "https://nodes.thetangle.org:443"
 
 # Hotel owner recieving address, replace with your own recieving address
-hotel_address = b'GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ'
+hotel_address = b'NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ'
 
 # Price of the parking service (10 IOTA)
 price = 10
